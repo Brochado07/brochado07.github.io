@@ -1,0 +1,23 @@
+.firma {
+  font-family: 'Great Vibes', cursive;
+  font-size: 30px;
+  padding-left: 0px;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden
+}
+
+img {
+  border-style: double;
+  border-radius: 13px;
+  width: 33%;
+  height: 33%;
+  box-shadow: 5px 5px 5px grey;
+}
+
+body {
+  background-color: #F3F2F2;
+}
